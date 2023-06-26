@@ -6,6 +6,13 @@ Arduino IDE 2.1.0
 MIDI Mixer
 ### Library:
  -  Control_Surface.h
+
+### Materials:
+ -  1x arduino pro micro
+ -  6x Potentiometer 10k
+ -  16x Push button 2 pin 
+
+
 <p>
  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
